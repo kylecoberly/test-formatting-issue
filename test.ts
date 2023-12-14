@@ -2,5 +2,6 @@ function someFunction() {
   // Statement
   const a = 1;
 
-  return a * 4;
+  const b = 4;
+  return a * b;
 }
